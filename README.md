@@ -11,5 +11,5 @@
 </h3>
 
 <p align="center">
-  Learning Java, MySQL and Web Development ✨
+  Learning Java, HTML, MySQL and Web Development ✨
 </p>
